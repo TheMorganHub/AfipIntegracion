@@ -1,0 +1,5 @@
+/vendor/
+.idea/
+/Afip_res/cert
+/Afip_res/key
+/Afip_res/TA-*

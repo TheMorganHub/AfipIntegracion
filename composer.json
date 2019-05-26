@@ -1,0 +1,9 @@
+{
+    "name": "david/test",
+    "description": "A test rproject",
+    "type": "project",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Models\\": "src/"}
+    }
+}
